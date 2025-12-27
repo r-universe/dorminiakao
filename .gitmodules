@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "HMMmlselect"]
+	path = HMMmlselect
+	url = https://github.com/cran/HMMmlselect
+[submodule "StepSignalMargiLike"]
+	path = StepSignalMargiLike
+	url = https://github.com/cran/StepSignalMargiLike
